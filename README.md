@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👨🏻‍💻 Jônatas Alencar D'Avila
 
-<!--
-**JonatasADavila/JonatasADavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Ciência da Computação`**
 
-Here are some ideas to get you started:
+Me chamo Jônatas Alencar D'Avila, tenho 19 anos e sou de São Paulo. Atualmente estou cursando Ciência da Computação na Universidade Anhembi Morumbi. Apaixonado por tecnologia e em constante aprendizado — sempre buscando evoluir um passo de cada vez.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://www.linkedin.com/in/jonatasdavila">
+        <img 
+            alt="LinkedIn" 
+            title="Me adicione no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Jônatas%20D'Avila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
+        />
+    </a>
+    <a href="mailto:davilajonatas@gmail.com">
+        <img 
+            alt="Email" 
+            title="Mande um email" 
+            src="https://custom-icon-badges.demolab.com/badge/Email-davilajonatas@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F"
+        />
+    </a>
+    <a href="https://github.com/JonatasADavila?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/JonatasADavila?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=JonatasADavila&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Linguagens mais usadas" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasADavila&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
