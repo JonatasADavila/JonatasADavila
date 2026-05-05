@@ -1,9 +1,6 @@
 # 👨🏻‍💻 Jônatas Alencar D'Avila
-
 **`Estudante de Ciência da Computação`**
-
 Me chamo Jônatas Alencar D'Avila, tenho 19 anos e sou de São Paulo. Estou no 3º semestre de Ciência da Computação na Anhembi Morumbi, com foco em desenvolvimento back-end utilizando Java. Venho construindo uma base sólida em lógica de programação e Orientação a Objetos, e atualmente estou aprofundando meus conhecimentos em banco de dados SQL e controle de versão com Git. Comprometido com aprendizado contínuo e sempre buscando evoluir um passo de cada vez.
-
 <p align="left">
     <a href="https://www.linkedin.com/in/jonatasdavila">
         <img 
@@ -48,6 +45,14 @@ Me chamo Jônatas Alencar D'Avila, tenho 19 anos e sou de São Paulo. Estou no 3
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -64,7 +69,6 @@ Me chamo Jônatas Alencar D'Avila, tenho 19 anos e sou de São Paulo. Estou no 3
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=JonatasADavila&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
   <img 
     align="left" 
     alt="Linguagens mais usadas" 
