@@ -1,5 +1,6 @@
 # 👨🏻‍💻 Jônatas Alencar D'Avila
 **`Estudante de Ciência da Computação`**
+
 Me chamo Jônatas Alencar D'Avila, tenho 19 anos e sou de São Paulo. Estou no 3º semestre de Ciência da Computação na Anhembi Morumbi, com foco em desenvolvimento back-end utilizando Java. Venho construindo uma base sólida em lógica de programação e Orientação a Objetos, e atualmente estou aprofundando meus conhecimentos em banco de dados SQL e controle de versão com Git. Comprometido com aprendizado contínuo e sempre buscando evoluir um passo de cada vez.
 <p align="left">
     <a href="https://www.linkedin.com/in/jonatasdavila">
