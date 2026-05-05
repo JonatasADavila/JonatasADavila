@@ -1,34 +1,35 @@
 # 👨🏻‍💻 Jônatas Alencar D'Avila
-**`Estudante de Ciência da Computação`**
+**`Computer Science Student`**
 
-Me chamo Jônatas Alencar D'Avila, tenho 19 anos e sou de São Paulo. Estou no 3º semestre de Ciência da Computação na Anhembi Morumbi, com foco em desenvolvimento back-end utilizando Java. Venho construindo uma base sólida em lógica de programação e Orientação a Objetos, e atualmente estou aprofundando meus conhecimentos em banco de dados SQL e controle de versão com Git. Comprometido com aprendizado contínuo e sempre buscando evoluir um passo de cada vez.
+My name is Jônatas Alencar D'Avila, I'm 19 years old and I'm from São Paulo, Brazil. I'm currently in my 3rd semester of Computer Science at Anhembi Morumbi University, focused on back-end development using Java. I've been building a solid foundation in programming logic and Object-Oriented Programming, and I'm currently deepening my knowledge in SQL databases and version control with Git. Committed to continuous learning and always looking to grow one step at a time.
+
 <p align="left">
     <a href="https://www.linkedin.com/in/jonatasdavila">
         <img 
             alt="LinkedIn" 
-            title="Me adicione no LinkedIn" 
+            title="Connect with me on LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Jônatas%20D'Avila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
         />
     </a>
     <a href="mailto:davilajonatas@gmail.com">
         <img 
             alt="Email" 
-            title="Mande um email" 
+            title="Send me an email" 
             src="https://custom-icon-badges.demolab.com/badge/Email-davilajonatas@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F"
         />
     </a>
     <a href="https://github.com/JonatasADavila?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/JonatasADavila?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/JonatasADavila?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -60,7 +61,7 @@ Me chamo Jônatas Alencar D'Avila, tenho 19 anos e sou de São Paulo. Estou no 3
 
 ---
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
@@ -68,12 +69,12 @@ Me chamo Jônatas Alencar D'Avila, tenho 19 anos e sou de São Paulo. Estou no 3
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JonatasADavila&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=JonatasADavila&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
   <img 
     align="left" 
-    alt="Linguagens mais usadas" 
+    alt="Most Used Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasADavila&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasADavila&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
